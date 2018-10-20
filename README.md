@@ -1,2 +1,1 @@
-# final-project
-test
+# Inventory App

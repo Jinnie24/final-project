@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Alice', serif;
+  background-image: url("./assets/back.jpg");
+  background-size: auto;
+
+}
+a {
+  color: #bca176;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 26px;
+}
+.btn {
+  font-family: 'Alice', serif;
+}
+.table {
+  font-family: 'Alice', serif;
+}
+#g-recaptcha {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+#dashboard-container{
+  background-image: url("./assets/container.jpg");
+  opacity: 0.9;
+}
+#home-page{
+  background-image: url("./assets/container.jpg");
+  opacity: 0.9;
+}
