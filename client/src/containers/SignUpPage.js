@@ -123,8 +123,8 @@ class SignUpPage extends React.Component {
         <div className='captcha'>
          <Recaptcha
             style={{}}
-            sitekey="6Lc49HUUAAAAALKemP3hiacWrq0oEibuCUE_Cy7i"
-            secretkey="6Lc49HUUAAAAAJbylooIy5svI1_iH6UCKfRHXL_3"
+            sitekey="6LfJ9HUUAAAAAH_gWHIv91Q5F3oJHLQshZm-kxj7"
+            secretkey="6LfJ9HUUAAAAAOBEKo-GY75qp8FI34iCMwgTUdOh"
             render="explicit"
             onloadCallback={this.recaptchaLoaded}
             verifyCallback={this.verifyCallback}
